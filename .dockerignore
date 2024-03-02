@@ -1,0 +1,18 @@
+# Files
+.DS_Store
+docker-compose.yml
+Dockerfile
+.dockerignore
+.editorconfig
+.env.example
+.gitignore
+*.py[cod]
+run.sh
+setup.cfg
+.pre-commit-config.yaml
+.devdb
+
+# Directories
+bin/
+.hooks/
+.idea/
