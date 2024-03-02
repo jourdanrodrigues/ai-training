@@ -7,6 +7,7 @@
 # Directories
 assets/
 .devdb/
+.data/
 
 # JetBrains settings: https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
 # User-specific stuff
